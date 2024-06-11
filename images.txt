@@ -1,1 +1,6 @@
 elasticsearch:7.17.0
+zookeeper:3.5.9
+docker.io/apache/dubbo-admin
+redis:6.2.6
+rabbitmq:3.9
+kibana:7.17.0

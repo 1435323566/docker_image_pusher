@@ -1,4 +1,4 @@
 nginx
 zookeeper
 redis
-elasticseach:7.17
+elasticsearch:7.17.0

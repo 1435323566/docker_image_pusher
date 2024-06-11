@@ -1,4 +1,1 @@
-nginx
-zookeeper
-redis
 elasticsearch:7.17.0

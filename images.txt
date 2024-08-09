@@ -10,3 +10,5 @@ kibana:8.10.4
 redis:7.0.11
 elasticsearch:8.4.1
 kibana:8.4.1
+openjdk:11
+openjdk:17

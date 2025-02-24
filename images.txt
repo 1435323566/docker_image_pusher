@@ -16,3 +16,4 @@ jenkins/jenkins:2.414.2
 minio/mc
 mysql:5.7
 mysql:8.0
+delron/fastdfs

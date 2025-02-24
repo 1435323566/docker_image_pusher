@@ -17,3 +17,4 @@ minio/mc
 mysql:5.7
 mysql:8.0
 delron/fastdfs
+rocketmq:5.0.0

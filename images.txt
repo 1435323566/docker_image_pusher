@@ -19,4 +19,4 @@ mysql:8.0
 delron/fastdfs
 apache/rocketmq:5.0.0
 apacherocketmq/rocketmq-dashboard
-docker.io/tomee
+openjdk:8

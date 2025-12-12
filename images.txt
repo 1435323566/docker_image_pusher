@@ -1,1 +1,2 @@
-docker.io/tomee
+mongo:7
+mongo
